@@ -1,31 +1,13 @@
-.home{
-    align-items: center;
-    max-height: 50;
-    margin: 90px;
-    padding: 100px;
+a:link,a:visited{
+    background-color: white;
+    color: gray;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    margin-left:60px;
+    margin-right:100px;
+}
 
-}
-.about{
-    align-items: center;
-    max-height: 50;
-    margin: 90px;
-    padding: 100px;
-}
-.product{
-    align-items: center;
-    max-height: 50;
-    margin: 90px;
-    padding: 100px;
-}
-.review{
-    align-items: center;
-    max-height: 50;
-    margin: 90px;
-    padding: 100px;
-}
-.contact{
-    align-items: center;
-    max-height: 50;
-    margin: 90px;
-    padding: 100px;
+a:hover,a:active{
+    background-color: #6F4E37;
 }
